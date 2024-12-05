@@ -1,5 +1,5 @@
 
-## Product Recommendation System
+# Product Recommendation System
 Overview
 This project is a Product Recommendation System designed to recommend products from a catalog based on user preferences. The system supports the following functionalities:
 
