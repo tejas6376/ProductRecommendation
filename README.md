@@ -1,6 +1,6 @@
 
 # Product Recommendation System
-##Overview
+## Overview
 This project is a Product Recommendation System designed to recommend products from a catalog based on user preferences. The system supports the following functionalities:
 
 Image-Based Recommendations: Upload an image, and the system recommends products based on visual similarity.
